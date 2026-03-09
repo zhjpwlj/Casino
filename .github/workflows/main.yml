@@ -1,4 +1,5 @@
-            - name: 🚀 FocusFlow Ultra Deploy
+            - name: 🚀 Super Ultra Typescript Deploy
   # You may pin to the exact commit or the version.
-  # uses: zhjpwlj/ultimate-deploy-system@6f4037b0bfd14edba949dce68faca755deb45f9d
+  # uses: zhjpwlj/ultimate-deploy-system@51264058fb36729c33eb34e1b8c6da261d4390aa
   uses: zhjpwlj/ultimate-deploy-system@v1.0.2
+          
