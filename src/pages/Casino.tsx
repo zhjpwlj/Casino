@@ -148,24 +148,6 @@ export const Casino: React.FC<CasinoProps> = ({ onSelectGame }) => {
       icon: <Dog className="w-12 h-12 text-blue-400" />,
       color: 'from-blue-600 to-indigo-900',
       image: 'https://images.unsplash.com/photo-1605870445919-838d190e8e1b?q=80&w=2072&auto=format&fit=crop'
-    },
-    {
-      id: 'andar-bahar',
-      name: 'Andar Bahar',
-      description: 'Traditional Indian card game. Inside or Outside?',
-      icon: <Shield className="w-12 h-12 text-emerald-400" />,
-      color: 'from-emerald-600 to-teal-900',
-      image: 'https://images.unsplash.com/photo-1605870445919-838d190e8e1b?q=80&w=2072&auto=format&fit=crop',
-      disabled: true
-    },
-    {
-      id: 'teen-patti',
-      name: 'Teen Patti',
-      description: 'The popular Three Card Brag from India.',
-      icon: <Swords className="w-12 h-12 text-yellow-400" />,
-      color: 'from-yellow-600 to-red-900',
-      image: 'https://images.unsplash.com/photo-1511193311914-0346f16efe90?q=80&w=2073&auto=format&fit=crop',
-      disabled: true
     }
   ];
 
